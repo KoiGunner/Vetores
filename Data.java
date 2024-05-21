@@ -41,6 +41,10 @@ public class Data {
 
         double media = sum;
 
+        double result = media / n;
+
+        System.out.println(result);
+
         sc.close();
     }
 }
